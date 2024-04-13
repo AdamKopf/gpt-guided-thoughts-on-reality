@@ -169,7 +169,7 @@ Each point maintains logical consistency with the premise that Total Possibility
 
 Thus, these implications do appear to logically arise when considering the properties attributed to Total Possibility Space: absolute yet containing multiplicity, fundamentally quality-less yet encompassing all qualities, boundlessly unlimited yet defining limitations through actualizations, and being everything while allowing for differentiated identities within it.
 
-`You`: Gevin Giorbran in his book "Everything Forever: Learning to See Timelessness" (chapter "God's Math") layed a foundation for new mathematics and physics where he considered 0 to mean "everything". 
+`You`: Gevin Giorbran in his book "Everything Forever: Learning to See Timelessness" (chapter "God's Math") laid a foundation for new mathematics and physics where he considered zero to mean "everything". 
 
 In contrast to current math, where we have a symbol for "nothing" - zero and we don't have a symbol for "everything", in this new math there's a symbol for "everything" and there is not a symbol for "nothing". In this new system all numbers are smaller than zero. 1 is smaller than 0 because it's "removed"/"actualized" from the pool of all possibilities. 2 is also smaller than 1 because it is one step more "removed" from all possibilities. -2 is also smaller than -1.
 
