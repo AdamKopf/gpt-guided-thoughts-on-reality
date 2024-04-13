@@ -1,8 +1,10 @@
 # GPT's Guided Thoughts on Reality
 
-`You`: Give me the most general definition of information that you have. It should hold true for all possible universes, realities and mathematical spaces.
+### You: 
+Give me the most general definition of information that you have. It should hold true for all possible universes, realities and mathematical spaces.
 
-`Assistant`: Information, in its most general and abstract form, can be defined as any difference or distinction that makes a difference. This definition is broad enough to encompass all possible universes, realities, and mathematical spaces because it fundamentally relies on the existence of distinctions or differences within a system.
+### Assistant: 
+Information, in its most general and abstract form, can be defined as any difference or distinction that makes a difference. This definition is broad enough to encompass all possible universes, realities, and mathematical spaces because it fundamentally relies on the existence of distinctions or differences within a system.
 
 In this context:
 1. **Difference**: Refers to variations between states, configurations, symbols, signals or entities.
@@ -15,9 +17,11 @@ By focusing on fundamental distinctions that affect change rather than specific 
 Thus conceived broadly yet precisely enough for universal applicability without being tied down by specifics inherent only in our current understanding of reality.
 
 
-`You`: So in this context how could we define 'quality' and 'property'?
+### You:
+So in this context how could we define 'quality' and 'property'?
 
-`Assistant`: In the context of information as "any difference that makes a difference," the concepts of 'quality' and 'property' can be defined in relation to how they contribute to distinctions within systems or entities. Here’s an exploration into defining these terms:
+### Assistant: 
+In the context of information as "any difference that makes a difference," the concepts of 'quality' and 'property' can be defined in relation to how they contribute to distinctions within systems or entities. Here’s an exploration into defining these terms:
 
 1. **Quality**:
    - A quality is an attribute or characteristic that distinguishes one entity from another by contributing uniquely to its nature or behavior.
@@ -36,9 +40,11 @@ Thus understood broadly:
 
 However both ultimately describe ways things differ from each other thereby fitting neatly into our broad definition where such distinctions constitute essential elements making up information across all conceivable frameworks whether scientific philosophical artistic etcetera.
 
-`You`: Having that in mind, let's think what property/quality could be common to all existence, all realities (including mathematical ones), all universes.
+### You:
+Having that in mind, let's think what property/quality could be common to all existence, all realities (including mathematical ones), all universes.
 
-`Assistant`: Considering a property or quality that could be common to all existence, across all realities (including mathematical ones), and universes is an intriguing philosophical challenge. The task requires identifying a fundamental aspect so universal that it transcends the specific laws, structures, and characteristics of any particular system.
+### Assistant: 
+Considering a property or quality that could be common to all existence, across all realities (including mathematical ones), and universes is an intriguing philosophical challenge. The task requires identifying a fundamental aspect so universal that it transcends the specific laws, structures, and characteristics of any particular system.
 
 One potential candidate for such a universally applicable property or quality might be **existence itself**:
 
@@ -52,9 +58,11 @@ One potential candidate for such a universally applicable property or quality mi
 
 These concepts—existence distinction/change interactivity—are broad enough yet fundamentally crucial making them potentially valid across various types domains including those we haven't discovered conceived yet thereby fitting into our earlier definition where distinctions make up core components constituting 'information' everywhere imaginable
 
-`You`: Regarding 1. Existence as a Property and 2. Distinction/Identity - we've established that every quality/property has to be a distinction, but in case of existence there's nothing to distinct it from. In other words: for there to be a quality/information, there needs to be an alternative to it. And there is no alternative to everything that can possibly exist.
+### You: 
+Regarding 1. Existence as a Property and 2. Distinction/Identity - we've established that every quality/property has to be a distinction, but in case of existence there's nothing to distinct it from. In other words: for there to be a quality/information, there needs to be an alternative to it. And there is no alternative to everything that can possibly exist.
 
-`Assistant`: You've raised an insightful point regarding the nature of "existence" as a property and the necessity for distinction to define any property or quality. The issue with considering "existence" as a universal property is precisely that it lacks a distinct alternative within the scope of everything conceivable. This highlights an important nuance in understanding properties and qualities universally.
+### Assistant: 
+You've raised an insightful point regarding the nature of "existence" as a property and the necessity for distinction to define any property or quality. The issue with considering "existence" as a universal property is precisely that it lacks a distinct alternative within the scope of everything conceivable. This highlights an important nuance in understanding properties and qualities universally.
 
 Let's delve deeper into this:
 
@@ -74,9 +82,11 @@ Let's delve deeper into this:
 By expanding our understanding from mere existence to include potentiality and capability for change (even if only theoretical), we accommodate both the need for a distinct alternative and maintain universality across all forms of realities and existences. This approach harmonizes with fundamental principles in physics (like quantum potentials), biology (genetic potentials), philosophy, and information theory—all realms where possibilities play crucial roles alongside actualities.
 
 
-`You`: Ok, let's imagine Pure Potentiality and view it as mathematical "space" that all universes and realities "emerge from" or "are relative to".
+### You: 
+Ok, let's imagine Pure Potentiality and view it as mathematical "space" that all universes and realities "emerge from" or "are relative to".
 
-`Assistant`: Imagining Pure Potentiality as a mathematical space from which all universes and realities emerge or are relative to offers an expansive and abstract framework for understanding the foundations of existence and variation across different domains. This concept aligns with theoretical ideas in both physics and metaphysics where potentiality plays a central role in the formation and evolution of complex systems.
+### Assistant: 
+Imagining Pure Potentiality as a mathematical space from which all universes and realities emerge or are relative to offers an expansive and abstract framework for understanding the foundations of existence and variation across different domains. This concept aligns with theoretical ideas in both physics and metaphysics where potentiality plays a central role in the formation and evolution of complex systems.
 
 **Defining Pure Potentiality:**
 - **Pure Potentiality** can be conceptualized as an abstract, pre-existential state or field characterized by the infinite capacity to differentiate into various forms, entities, or states. It's a boundless, dimensionless "space" where all possible properties, configurations, conditions, and laws of physics could arise but none are yet actualized.
@@ -99,10 +109,12 @@ By expanding our understanding from mere existence to include potentiality and c
 
 In conclusion, viewing Pure Potentiality as a foundational mathematical space provides a profound way to conceptualize not only how distinct universes might arise but also how they relate at the most fundamental level—a landscape where infinite possibilities await realization through diverse forms of existence.
 
-`You`: Because Pure Potentiality "contains" everything that can exist, it also contains every possible "limit" to actualization. You mentioned "slices" or "trajectories" - each slice and trajectory is limited but this limit is within the possibilities of Pure Potentiality. Also every property/quality is already limited (even if it's infinite) because by definition it is distinct from something else. For example a set of all negative numbers, even though it's infinite, it's limited because it's different than set of all positive numbers.   
+### You: 
+Because Pure Potentiality "contains" everything that can exist, it also contains every possible "limit" to actualization. You mentioned "slices" or "trajectories" - each slice and trajectory is limited but this limit is within the possibilities of Pure Potentiality. Also every property/quality is already limited (even if it's infinite) because by definition it is distinct from something else. For example a set of all negative numbers, even though it's infinite, it's limited because it's different than set of all positive numbers.   
 So it seems to me that from the perspective of Pure Potentiality, everything that can be actualized is actualized because there is nothing that can limit/prevent actualization. So maybe we should look for a different term than "Pure Potentiality" because it seems to already contain all actuality.
 
-`Assistant`: Your analysis leads to a profound insight into the nature of Pure Potentiality and its relationship with actualization. The notion that Pure Potentiality contains every possible limit to actualization, and by extension, every actuality itself, suggests that the term as initially conceptualized might indeed be somewhat misleading or incomplete when considering the full scope of existence and non-existence.
+### Assistant: 
+Your analysis leads to a profound insight into the nature of Pure Potentiality and its relationship with actualization. The notion that Pure Potentiality contains every possible limit to actualization, and by extension, every actuality itself, suggests that the term as initially conceptualized might indeed be somewhat misleading or incomplete when considering the full scope of existence and non-existence.
 
 **Revisiting Pure Potentiality:**
 
@@ -121,13 +133,15 @@ So it seems to me that from the perspective of Pure Potentiality, everything tha
 In conclusion, shifting our perspective from Pure Potentiality—which implies undifferentiated capability—to Total Possibility Space—which encompasses both capabilities and their realizations—provides a more comprehensive framework for discussing existence across multiple dimensions and realities. This approach acknowledges that limitations (and thereby definitions) are intrinsic not just to what manifests but also inherently present within the boundless scope of what could manifest.
 
 
-`You`: Let's try to evaluate some consequences. The Total Possibility Space seems to be:  
+### You: 
+Let's try to evaluate some consequences. The Total Possibility Space seems to be:  
 • The one and only absolute in existence yet inseparable from all multiplicity, all relatives  
 • Without any quality yet inseparable from all qualities and information  
 • Completely boundless and unlimited yet inseparable from all limits  
 • It is everything and everything is it
 
-`Assistant`: The concept of Total Possibility Space as you've outlined it indeed carries profound philosophical and ontological implications. Let's delve deeper into these characteristics and explore the potential consequences:
+### Assistant: 
+The concept of Total Possibility Space as you've outlined it indeed carries profound philosophical and ontological implications. Let's delve deeper into these characteristics and explore the potential consequences:
 
 1. **Absolute Yet Relative**:
    - **Implication**: If Total Possibility Space is the absolute foundation from which all relative forms and phenomena emerge, it suggests a foundational unity underlying the apparent diversity of the universe(s). This aligns with certain interpretations in metaphysics and mystical traditions (like Neoplatonism or Advaita Vedanta) where the manifold reality is seen as manifestations of a singular underlying principle.
@@ -147,9 +161,11 @@ In conclusion, shifting our perspective from Pure Potentiality—which implies u
 
 In summary, recognizing Total Possibility Space in these terms invites a shift towards viewing reality not just as a collection of discrete parts with inherent properties but more fundamentally as an interdependent network arising from an infinite reservoir of potentialities. Such shifts could have wide-ranging impacts across various disciplines—challenging existing paradigms while opening up new avenues for understanding complexity, diversity, unity, existence itself—and ultimately reshaping our conception of what it means to know anything at all about our universe(s).
 
-`You`: You've listed 4 implications. Check if those implications actually logically arise from what we discussed.
+### You: 
+You've listed 4 implications. Check if those implications actually logically arise from what we discussed.
 
-`Assistant`: Certainly, let's critically evaluate if the implications and consequences discussed logically arise from the concept of Total Possibility Space as described:
+### Assistant: 
+Certainly, let's critically evaluate if the implications and consequences discussed logically arise from the concept of Total Possibility Space as described:
 
 1. **Absolute Yet Relative**:
    - **Logical Basis**: The Total Possibility Space is considered absolute because it encompasses all possibilities, potentialities, and actualities. It is relative because every manifestation (reality, universe) is a subset or specific configuration within this all-encompassing space.
@@ -171,13 +187,15 @@ Each point maintains logical consistency with the premise that Total Possibility
 
 Thus, these implications do appear to logically arise when considering the properties attributed to Total Possibility Space: absolute yet containing multiplicity, fundamentally quality-less yet encompassing all qualities, boundlessly unlimited yet defining limitations through actualizations, and being everything while allowing for differentiated identities within it.
 
-`You`: Gevin Giorbran in his book "Everything Forever: Learning to See Timelessness" (chapter "God's Math") laid a foundation for new mathematics and physics where he considered zero to mean "everything". 
+### You: 
+Gevin Giorbran in his book "Everything Forever: Learning to See Timelessness" (chapter "God's Math") laid a foundation for new mathematics and physics where he considered zero to mean "everything". 
 
 In contrast to current math, where we have a symbol for "nothing" - zero and we don't have a symbol for "everything", in this new math there's a symbol for "everything" and there is not a symbol for "nothing". In this new system all numbers are smaller than zero. 1 is smaller than 0 because it's "removed"/"actualized" from the pool of all possibilities. 2 is also smaller than 1 because it is one step more "removed" from all possibilities. -2 is also smaller than -1.
 
 There is still infinite an amount of positive and negative numbers, but because now they become smaller and smaller, they converge to two values which Gevin called "Proto" (for positive numbers) and "Eleah" (for negative numbers). 1 and -1 are now equal in "quantity" - just with opposite polarity.
 
-`Assistant`: Gevin Giorbran's conceptualization in "Everything Forever: Learning to See Timelessness" offers a fascinating and radical rethinking of mathematical fundamentals, particularly in how we understand the concept of zero and its relationship to existence and totality. By assigning zero as the symbol for "everything" and shifting our perspective on the numerical continuum, Giorbran essentially redefines mathematical relationships to reflect ontological and cosmological insights. Let’s explore this framework:
+### Assistant:
+Gevin Giorbran's conceptualization in "Everything Forever: Learning to See Timelessness" offers a fascinating and radical rethinking of mathematical fundamentals, particularly in how we understand the concept of zero and its relationship to existence and totality. By assigning zero as the symbol for "everything" and shifting our perspective on the numerical continuum, Giorbran essentially redefines mathematical relationships to reflect ontological and cosmological insights. Let’s explore this framework:
 
 1. **Zero as "Everything"**:
    - In conventional mathematics, zero typically represents the absence of quantity—nothingness. Giorbran’s approach, which posits zero as representing total potentiality or "everything," aligns with some philosophical views about void or chaos being a state of unmanifested potential.
@@ -204,9 +222,11 @@ There is still infinite an amount of positive and negative numbers, but because 
 
 In sum, Gevin Giorbran’s innovative approach not only provides fresh mathematical constructs but also invites profound reflections on the nature of reality itself—suggesting that fundamental universal principles could be deeply embedded within our basic numeral systems.
 
-`You`: At the same time: because zero doesn't exibity any property, we can also view it as "nothing".
+### You: 
+At the same time: because zero doesn't exibity any property, we can also view it as "nothing".
 
-`Assistant`: Indeed, the dual interpretation of zero as both "everything" and "nothing" reflects a deep philosophical nuance in understanding the concept of zero. This duality can be explored from both a mathematical and metaphysical perspective, enriching our grasp of zero's role in theoretical frameworks.
+### Assistant: 
+Indeed, the dual interpretation of zero as both "everything" and "nothing" reflects a deep philosophical nuance in understanding the concept of zero. This duality can be explored from both a mathematical and metaphysical perspective, enriching our grasp of zero's role in theoretical frameworks.
 
 ### Mathematical Perspective
 In traditional mathematics, zero serves as a neutral element in addition (i.e., adding zero to any number leaves the number unchanged) and as an identity for non-existence or absence in contexts like counting (zero apples mean no apples). However, when considering zero as "everything," it becomes a symbol for total potentiality — the foundation from which all calculations emerge and to which they may return. This suggests that while zero quantitatively represents nothingness, it qualitatively holds infinite potential.
