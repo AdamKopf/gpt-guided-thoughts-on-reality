@@ -1,3 +1,5 @@
+# GPT's Guided Thoughts on Reality
+
 `You`: Give me the most general definition of information that you have. It should hold true for all possible universes, realities and mathematical spaces.
 
 `Assistant`: Information, in its most general and abstract form, can be defined as any difference or distinction that makes a difference. This definition is broad enough to encompass all possible universes, realities, and mathematical spaces because it fundamentally relies on the existence of distinctions or differences within a system.
